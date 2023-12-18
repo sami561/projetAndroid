@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79444359535",
+    "project_id": "to-do-app-a669f",
+    "storage_bucket": "to-do-app-a669f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79444359535:android:a31f05c7268c51ad52509a",
+        "android_client_info": {
+          "package_name": "com.example.projetmobile4gl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8NPrdYhi--izISo3H7NZ_taMYMuTu0ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
